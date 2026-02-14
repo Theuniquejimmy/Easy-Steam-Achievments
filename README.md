@@ -5,3 +5,6 @@ What you need prior:
 https://steamautocracks.github.io/
 and
 https://github.com/xan105/Achievement-Watcher
+
+ First grab the app id of the steam game you want to have achievments with and keep it handy.
+ Next open Easy Stem Achievments
